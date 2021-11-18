@@ -46,8 +46,6 @@ void	ft_fprime(int nb)
 					printf("*%d", i);
 				nb = nb / i;
 			}
-			else
-				i++;
 		}
 		else
 			i++;
